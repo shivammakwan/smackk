@@ -20,7 +20,7 @@ const Login = () => {
           alt="logo"
         />
         <Button onClick={signIn} variant="outlined">
-          Sign in with Google
+          Sign in to Smackk with Google
         </Button>
       </LoginContainer>
     </Container>
