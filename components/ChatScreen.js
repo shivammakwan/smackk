@@ -8,7 +8,7 @@ import { useRouter } from "next/router";
 import { useCollection } from "react-firebase-hooks/firestore";
 import Message from "./Message";
 import InsertEmoticon from "@material-ui/icons/InsertEmoticon";
-import MicIcon from "@material-ui/icons/mic";
+import MicIcon from "@material-ui/icons/Mic";
 import { useState } from "react";
 import firebase from "firebase";
 import getRecipientEmail from "../utils/getRecipientEmail";
